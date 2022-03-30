@@ -1,0 +1,1 @@
+here is  result of asyn fileread and writefile: this is file 1 .txt file ,this is second file in contant
